@@ -222,15 +222,4 @@ Unless otherwise specified, all the theme files, scripts and images including th
 = 1.0.0 - 2016-10-27 =
 * Initial Release
 
-
-Erik
-
-e
-5
-5
-5
-5
-
-7
-7
-77
+## Curso de Erik en Udemy
